@@ -1,0 +1,158 @@
+#primary{
+    background-color: black !important;
+}
+/* set top bar to be black */
+html[dir] ._1FPJ-:after {
+    background-color: black !important;
+}
+html[dir] .app-wrapper-web ._3fUe9 {
+    border-radius: 15px !important;
+}
+/* set top bar bottom background */
+body{
+    background-color: black !important;
+    background-image: none !important;
+}
+/* set background in current chat color */
+html[dir] .NuujD {
+    background-color: #505050 !important;
+}
+/* set non active chat heads color */
+html[dir] ._2UaNq {
+    background-color: darkgrey !important;
+}
+html[dir] ._2UaNq:hover {
+    background-color: #606060 !important;
+}
+/* set active caht color */
+html[dir] ._2UaNq._3mMX1 {
+    background-color: gray !important;
+}
+/* current chat header */
+html[dir] ._3fs0K {
+    background-color: transparent !important;
+}
+/* current chat header text */
+.i1XSV._3Q3ui {
+    color: white !important;
+}
+._19vo_ {
+    color: white !important;
+}
+/* user header */
+html[dir] ._3Jvyf {
+    background-color: #505050 !important;
+}
+/* chat search */
+html[dir] .eiCXe {
+    background-color: grey !important;
+}
+html[dir] ._2zCfw {
+    background-color: gray !important;
+}
+html[dir] .ZP8RM {
+    background-color: grey !important;
+}
+/* border between chats */
+html[dir] ._2WP9Q {
+    border-top: 0px solid #f2f2f2 !important;
+}
+/*received message colors */
+html[dir] .message-in {
+    background-color: darkgrey !important;
+}
+/* unable to turn arrow head in chat so hid it */
+html[dir=ltr] .message-in .tail-container, html[dir=ltr] .message-in.tail-override-left .tail-container, html[dir=ltr] .message-in.tail-override-right .tail-container, html[dir=ltr] .message-out.tail-override-right .tail-container {
+    background-image: none !important;
+}
+/* message type box */
+html[dir] ._2i7Ej {
+    background-color: grey !important;
+}
+html[dir] ._13mgZ {
+    background-color: darkgray !important;
+    border: none !important;
+}
+/* top bar buttons */
+html[dir=ltr] ._3j8Pd {
+    background-color: darkgray !important;
+}
+html[dir=ltr] ._3j8Pd:first-of-type {
+    background-color: darkgrey !important;
+}
+/* scrollbar */
+::-webkit-scrollbar-track {
+    background: aliceblue;
+}
+button {
+    background: lightgray !important;
+    border-radius: 50%;
+}
+/* chat info */
+html[dir] ._2LSbZ {
+    background-color: #505050 !important;
+    margin-bottom: 0rem !important;
+}
+html[dir] .kiodY {
+    background-color: #505050 !important;
+}
+._1drsQ {
+    color: lightgrey !important;
+}
+._6xQdq {
+    color: lightgrey !important;
+}
+html[dir] ._26JG5 {
+    background-color: inherit !important;
+}
+/* message details */
+html[dir] ._2rGVQ {
+    background: #505050 !important;
+}
+.rK2ei {
+    background: #505050 !important;
+}
+/* search details  */
+html[dir] ._1Kstu {
+    background-color: #505050 !important;
+}
+/* menu dropdown */
+html[dir] ._2hHc6 {
+    background-color: lightgray !important;
+}
+html[dir=ltr] ._15CAo._2Nkc4 {
+    background: linear-gradient(90deg,hsla(0,0%,100%,0) 0,#909090 50%) !important;
+}
+/* seach contacts active */
+html[dir] .ZP8RM._19OGD {
+    background-color: gray !important;
+}
+html[dir] .r7sRK {
+    background-color: darkgray !important;
+}
+html[dir] ._1RYPC {
+    background-color: darkgrey !important;
+}
+/* initial chat screen */
+html[dir] .iFKgT {
+    background-color: gray !important;
+}
+html[dir] .iFKgT:after {
+    border-top: none !important;
+}
+._1cDWi {
+    color: lightgray !important;
+}
+._3mkas {
+    color: lightgray !important;
+}
+._3UQPd {
+    color: lightgray !important;
+}
+._1wSzK{
+    background: gray !important;
+}
+/* first chat border seprate css for unknown reason */
+html[dir] ._2UaNq._3mMX1:after, html[dir] ._2UaNq._16_lP:after, html[dir] ._2UaNq:hover:after {
+    border-top: none !important;
+}

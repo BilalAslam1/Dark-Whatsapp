@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Modify CSS and HTML",
+    "version": "1.0.0",
+    "description": "dark theme whatsapp web",
+    "content_scripts": [
+        {
+            "css": [
+                "styles.css"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "matches": [
+                "https://web.whatsapp.com/*"
+            ]
+        }
+    ]
+}
