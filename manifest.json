@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Modify CSS and HTML",
+    "name": "Dark Whatsapp",
     "version": "1.0.0",
     "description": "dark theme whatsapp web",
     "content_scripts": [

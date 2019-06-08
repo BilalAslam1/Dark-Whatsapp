@@ -15,18 +15,34 @@ body{
 }
 /* set background in current chat color */
 html[dir] .NuujD {
-    background-color: #505050 !important;
+    background-color: rgb(46, 49, 54) !important;
 }
 /* set non active chat heads color */
 html[dir] ._2UaNq {
-    background-color: darkgrey !important;
+    background-color: rgb(46, 49, 54) !important;
 }
 html[dir] ._2UaNq:hover {
     background-color: #606060 !important;
 }
 /* set active caht color */
 html[dir] ._2UaNq._3mMX1 {
-    background-color: gray !important;
+    background-color:  rgb(36, 39, 43) !important; 
+}
+/* chat bar text color */
+._3H4MS {
+    color: darkgray !important;
+}
+._3FeAD .wjdTm {
+    color: lightgray !important;
+}
+._0LqQ {
+    color: lightgray !important;
+}
+.xD91K {
+    color: lightgray !important;
+}
+._2UaNq._3mMX1 .xD91K {
+    color: lightgray !important;
 }
 /* current chat header */
 html[dir] ._3fs0K {
@@ -34,32 +50,32 @@ html[dir] ._3fs0K {
 }
 /* current chat header text */
 .i1XSV._3Q3ui {
-    color: white !important;
+    color: #E0E0E0 !important;
 }
 ._19vo_ {
-    color: white !important;
+    color: #E0E0E0 !important;
 }
 /* user header */
 html[dir] ._3Jvyf {
-    background-color: #505050 !important;
+    background-color: rgb(46, 49, 54) !important;
 }
 /* chat search */
 html[dir] .eiCXe {
-    background-color: grey !important;
+    background-color:rgb(46, 49, 54) !important;
 }
 html[dir] ._2zCfw {
-    background-color: gray !important;
+    background-color:rgb(46, 49, 54) !important;
 }
 html[dir] .ZP8RM {
-    background-color: grey !important;
+    background-color:rgb(46, 49, 54) !important;
 }
 /* border between chats */
 html[dir] ._2WP9Q {
     border-top: 0px solid #f2f2f2 !important;
 }
-/*received message colors */
+/*received message text colors */
 html[dir] .message-in {
-    background-color: darkgrey !important;
+    background-color: #808080 !important;
 }
 /* unable to turn arrow head in chat so hid it */
 html[dir=ltr] .message-in .tail-container, html[dir=ltr] .message-in.tail-override-left .tail-container, html[dir=ltr] .message-in.tail-override-right .tail-container, html[dir=ltr] .message-out.tail-override-right .tail-container {
@@ -67,34 +83,34 @@ html[dir=ltr] .message-in .tail-container, html[dir=ltr] .message-in.tail-overri
 }
 /* message type box */
 html[dir] ._2i7Ej {
-    background-color: grey !important;
+    background-color:rgb(46, 49, 54) !important;
 }
 html[dir] ._13mgZ {
-    background-color: darkgray !important;
+    background-color: #696969 !important;
     border: none !important;
 }
 /* top bar buttons */
 html[dir=ltr] ._3j8Pd {
-    background-color: darkgray !important;
+    background-color: #686868 !important;
 }
 html[dir=ltr] ._3j8Pd:first-of-type {
-    background-color: darkgrey !important;
+    background-color: #686868 !important;
 }
 /* scrollbar */
 ::-webkit-scrollbar-track {
     background: aliceblue;
 }
 button {
-    background: lightgray !important;
+    background: #696969 !important;
     border-radius: 50%;
 }
 /* chat info */
 html[dir] ._2LSbZ {
-    background-color: #505050 !important;
+    background-color: rgb(46, 49, 54) !important;
     margin-bottom: 0rem !important;
 }
 html[dir] .kiodY {
-    background-color: #505050 !important;
+    background-color: rgb(46, 49, 54) !important;
 }
 ._1drsQ {
     color: lightgrey !important;
@@ -107,14 +123,14 @@ html[dir] ._26JG5 {
 }
 /* message details */
 html[dir] ._2rGVQ {
-    background: #505050 !important;
+    background: rgb(46, 49, 54) !important;
 }
 .rK2ei {
-    background: #505050 !important;
+    background: rgb(46, 49, 54) !important;
 }
 /* search details  */
 html[dir] ._1Kstu {
-    background-color: #505050 !important;
+    background-color: rgb(46, 49, 54) !important;
 }
 /* menu dropdown */
 html[dir] ._2hHc6 {
@@ -125,7 +141,7 @@ html[dir=ltr] ._15CAo._2Nkc4 {
 }
 /* seach contacts active */
 html[dir] .ZP8RM._19OGD {
-    background-color: gray !important;
+    background-color:rgb(46, 49, 54) !important;
 }
 html[dir] .r7sRK {
     background-color: darkgray !important;
@@ -135,7 +151,7 @@ html[dir] ._1RYPC {
 }
 /* initial chat screen */
 html[dir] .iFKgT {
-    background-color: gray !important;
+    background-color:rgb(46, 49, 54) !important;
 }
 html[dir] .iFKgT:after {
     border-top: none !important;
@@ -150,9 +166,30 @@ html[dir] .iFKgT:after {
     color: lightgray !important;
 }
 ._1wSzK{
-    background: gray !important;
+    background:rgb(46, 49, 54) !important;
 }
 /* first chat border seprate css for unknown reason */
 html[dir] ._2UaNq._3mMX1:after, html[dir] ._2UaNq._16_lP:after, html[dir] ._2UaNq:hover:after {
     border-top: none !important;
+}
+/* reply color */
+html[dir] ._1ebw2 {
+    background-color: gray !important;
+}
+html[dir] .OWYLS {
+    background-color: gray !important;
+}
+._2HHbr {
+    color: #E0E0E0 !important;
+}
+/* enlarger picture background */
+html[dir] ._1HjMu {
+    background: #1A1D21 !important;
+}
+html[dir] .cGLoy {
+    background-color: dimgray !important;
+}
+html[dir] ._2AP3i {
+    border-top: none !important;
+    background: #1A1D21 !important;
 }
